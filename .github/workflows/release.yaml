@@ -5,6 +5,7 @@ on:
     tags:
       - 'v*'
 
+
 jobs:
   # Full build of the Mac assets
   build-darwin:
